@@ -1,0 +1,7 @@
+*.db
+uploads/*
+venv
+*.pyc
+.idea
+curl_upload.txt
+metadata_rax_issue/
